@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: My history
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ryan Rogowski. I am a software engineer, product leader, and entrepreneur:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I started my first company Waygo to create visual translation
+- I went on to start a Machine Learning consulting firm called TA Labs
+- I now work as the lead Machine Learning engineer at Datacapable
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I love to travel, speak at conferences, and share my learnings with the world [my stories](https://ryanrogowski.github.io).
