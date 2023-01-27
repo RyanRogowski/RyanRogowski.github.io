@@ -22,7 +22,7 @@ author: Ryan Rogowski
 navbar-links:
   About Me: "aboutme"
   My Work:
-    - Waygo: "https://waygoapp.com"
+    - Waygo: "http://waygoapp.com"
     - Datacapable: "https://www.datacapable.com/"
   Author's home: "https://ryanrogowski.github.io"
 
