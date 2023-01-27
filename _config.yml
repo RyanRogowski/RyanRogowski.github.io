@@ -51,8 +51,8 @@ round-avatar: false
 social-network-links:
   email: "ryan@translateabroad.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-#   facebook: ryanrogowski
-#   github: ryanrogowski
+  facebook: ryanrogowski
+  github: ryanrogowski
   twitter: Ryan_Rogowski
 #   patreon: ryanrogowski
 #   youtube: c/ryanrogowski
