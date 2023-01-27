@@ -20,7 +20,7 @@ body {
   background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
-  overflow-wrap: break-word;
+  /*overflow-wrap: break-word;*/
 }
 p {
   line-height: 1.5;
@@ -667,7 +667,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading {
   text-align: center;
-  overflow-wrap: normal;
+  /*overflow-wrap: normal;*/
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
