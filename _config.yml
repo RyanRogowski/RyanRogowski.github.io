@@ -21,9 +21,10 @@ author: Ryan Rogowski
 
 navbar-links:
   About Me: "aboutme"
-  My Work:
-    - Waygo: "http://waygoapp.com"
-    - Datacapable: "https://www.datacapable.com/"
+  My Work: "mywork"
+    # - Waygo: "http://waygoapp.com"
+    # - Datacapable: "https://www.datacapable.com/"
+  Patents: "patents"
   Author's home: "https://ryanrogowski.github.io"
 
 ################
