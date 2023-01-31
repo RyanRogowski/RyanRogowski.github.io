@@ -1119,3 +1119,12 @@ pre {
     display: inline-block;
   }
 }
+
+.row-press {
+  display: flex;
+}
+
+.column-press {
+  flex: 33.33%;
+  padding: 5px;
+}

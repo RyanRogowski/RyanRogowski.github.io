@@ -4,9 +4,9 @@ title: About me
 subtitle: My story
 ---
 
-![career](/assets/img/career.png)##A brief summary of my career
+##A brief summary of my career
 
-I joined Datcapable in August 2018, to lead the Machine Learning efforts in threat event detection.
+![career](/assets/img/career.png)I joined Datcapable in August 2018, to lead the Machine Learning efforts in threat event detection.
 
 I am an expert in Machine Learning technology and building engineering teams to deliver reliable products. I am currently the Lead Machine Learning Engineer at [Datacapable](http://www.datacapable.com/) and have built a number of projects around analyzing social media text and tweets. I implemented an entity extractor using Twitter GloVe training set, built a labeling and training pipeline for classifying tweets to detect real-time threat events, and built a tweet clustering algorithm to assign auto-generated topics to tweets in real-time.
 
