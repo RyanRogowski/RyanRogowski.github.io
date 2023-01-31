@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: My history
+subtitle: My story
 ---
 
-##![career](/assets/img/career.png) My Story
+![career](/assets/img/career.png)##A brief summary of my career
 
 I joined Datcapable in August 2018, to lead the Machine Learning efforts in threat event detection.
 
