@@ -1123,7 +1123,6 @@ pre {
 .row-press {
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
   gap: 15px;
 }
 .bbc-margin {
@@ -1134,11 +1133,20 @@ pre {
   /*flex: 33.33%;*/
   padding: 5px;
 
-  max-width: 30%;
   margin-top: 15px;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+@media (max-width: 480px) {
+  .row {
+    flex-wrap: wrap;
+  }
+  
+  .three-column {
+    max-width: 30%;
+  }
 }
 
 /* --- Custom Additions --- */
