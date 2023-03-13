@@ -1138,6 +1138,10 @@ pre {
   justify-content: center;
 }
 
+.press-image{
+  max-height: 100px;
+}
+
 @media (max-width: 480px) {
   .row-press {
     flex-wrap: wrap;
