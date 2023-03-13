@@ -1125,9 +1125,6 @@ pre {
   justify-content: center;
   gap: 15px;
 }
-.bbc-margin {
-  margin-top: 15px;
-}
 
 .column-press {
   /*flex: 33.33%;*/
@@ -1138,6 +1135,7 @@ pre {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 @media (max-width: 480px) {
