@@ -1122,11 +1122,20 @@ pre {
 
 .row-press {
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
 }
 
 .column-press {
-  flex: 33.33%;
+  /*flex: 33.33%;*/
   padding: 5px;
+
+  max-width: 30%;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* --- Custom Additions --- */
